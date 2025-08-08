@@ -1,0 +1,11 @@
+import{j as e}from"./iframe-BK5b18Ej.js";import{s as l}from"./type-Bc9hys3F.js";const n=({size:r="base",color:i="var(--pac-upui-icon)"})=>{const a=l[r]||l.base;return e.jsxs("svg",{width:a,height:a,viewBox:"0 0 26 26",fill:"none",xmlns:"http://www.w3.org/2000/svg",children:[e.jsx("g",{clipPath:"url(#clip0_510_6251)",children:e.jsx("path",{d:"M19.2292 8.65872L16.3536 5.78314C16.2194 5.64895 16.0373 5.57227 15.8456 5.57227H8.17742C7.25244 5.57227 6.5 6.32471 6.5 7.24968V18.752C6.5 19.677 7.25244 20.4294 8.17742 20.4294H17.7627C18.6876 20.4294 19.4401 19.677 19.4401 18.752V9.16674C19.4401 8.97503 19.3634 8.79291 19.2292 8.65872ZM11.2926 7.01005H14.6475V9.40637H11.2926V7.01005ZM14.6475 18.9916H11.2926V14.6783H14.6475V18.9916ZM18.0023 18.752C18.0023 18.8814 17.8921 18.9916 17.7627 18.9916H16.0852V13.9594C16.0852 13.5616 15.7641 13.2405 15.3664 13.2405H10.5737C10.1759 13.2405 9.85484 13.5616 9.85484 13.9594V18.9916H8.17742C8.04802 18.9916 7.93779 18.8814 7.93779 18.752V7.24968C7.93779 7.12028 8.04802 7.01005 8.17742 7.01005H9.85484V10.1253C9.85484 10.523 10.1759 10.8442 10.5737 10.8442H15.3664C15.7641 10.8442 16.0852 10.523 16.0852 10.1253V7.54683L18.0023 9.46388V18.752Z",fill:i})}),e.jsx("defs",{children:e.jsx("clipPath",{id:"clip0_510_6251",children:e.jsx("rect",{width:"12.9401",height:"14.8571",fill:"white",transform:"translate(6.5 5.57227)"})})})]})};n.__docgenInfo={description:"",methods:[],displayName:"SaveIcon",props:{size:{required:!1,tsType:{name:"union",raw:`| "xsmall"\r
+| "small"\r
+| "base"\r
+| "medium"\r
+| "large"\r
+| "xlarge"\r
+| "2xlarge"\r
+| "3xlarge"\r
+| "4xlarge"\r
+| "5xlarge"\r
+| "6xlarge"`,elements:[{name:"literal",value:'"xsmall"'},{name:"literal",value:'"small"'},{name:"literal",value:'"base"'},{name:"literal",value:'"medium"'},{name:"literal",value:'"large"'},{name:"literal",value:'"xlarge"'},{name:"literal",value:'"2xlarge"'},{name:"literal",value:'"3xlarge"'},{name:"literal",value:'"4xlarge"'},{name:"literal",value:'"5xlarge"'},{name:"literal",value:'"6xlarge"'}]},description:"",defaultValue:{value:'"base"',computed:!1}},color:{required:!1,tsType:{name:"string"},description:"",defaultValue:{value:'"var(--pac-upui-icon)"',computed:!1}}}};export{n as S};
