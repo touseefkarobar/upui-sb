@@ -1,0 +1,11 @@
+import{j as a}from"./iframe-BrFNDJt9.js";import{s as l}from"./type-Bc9hys3F.js";const i=({size:r="base",color:n="var(--pac-upui-icon)"})=>{const e=l[r]||l.base;return a.jsx("svg",{width:e,height:e,viewBox:"0 0 26 26",fill:"none",xmlns:"http://www.w3.org/2000/svg",children:a.jsx("path",{d:"M12.6784 20.6617C12.3336 20.6617 12.0029 20.5247 11.7592 20.2809C11.5154 20.0371 11.3783 19.7064 11.3783 19.3617V14.626H8.96409C8.6193 14.626 8.28866 14.489 8.04487 14.2452C7.80107 14.0014 7.66406 13.6707 7.66406 13.3259V13.1867C7.66492 12.9328 7.73912 12.6845 7.87767 12.4717L12.2419 5.97172C12.361 5.79243 12.5224 5.64518 12.7119 5.54314C12.9014 5.44111 13.1132 5.38742 13.3284 5.38672C13.6732 5.38672 14.0038 5.52367 14.2476 5.76746C14.4914 6.01126 14.6283 6.34196 14.6283 6.68674V11.4224H17.0427C17.3874 11.4224 17.7181 11.5594 17.9619 11.8032C18.2057 12.047 18.3426 12.3777 18.3426 12.7225V12.8709C18.3429 13.1264 18.2652 13.3759 18.1198 13.586L13.7555 20.086C13.638 20.264 13.478 20.4099 13.29 20.5105C13.1019 20.611 12.8916 20.6629 12.6784 20.6617ZM9.05692 13.2331H12.0748C12.2587 13.2355 12.4345 13.3097 12.5646 13.4397C12.6947 13.5698 12.7688 13.7456 12.7712 13.9295V19.0553L16.9498 12.7688H13.9319C13.8401 12.7701 13.749 12.7529 13.664 12.7184C13.5789 12.6838 13.5016 12.6325 13.4367 12.5676C13.3718 12.5027 13.3205 12.4254 13.286 12.3403C13.2514 12.2553 13.2342 12.1642 13.2355 12.0724V6.94666L9.05692 13.2331Z",fill:n})})};i.__docgenInfo={description:"",methods:[],displayName:"ActionIcon",props:{size:{required:!1,tsType:{name:"union",raw:`| "xsmall"\r
+| "small"\r
+| "base"\r
+| "medium"\r
+| "large"\r
+| "xlarge"\r
+| "2xlarge"\r
+| "3xlarge"\r
+| "4xlarge"\r
+| "5xlarge"\r
+| "6xlarge"`,elements:[{name:"literal",value:'"xsmall"'},{name:"literal",value:'"small"'},{name:"literal",value:'"base"'},{name:"literal",value:'"medium"'},{name:"literal",value:'"large"'},{name:"literal",value:'"xlarge"'},{name:"literal",value:'"2xlarge"'},{name:"literal",value:'"3xlarge"'},{name:"literal",value:'"4xlarge"'},{name:"literal",value:'"5xlarge"'},{name:"literal",value:'"6xlarge"'}]},description:"",defaultValue:{value:'"base"',computed:!1}},color:{required:!1,tsType:{name:"string"},description:"",defaultValue:{value:'"var(--pac-upui-icon)"',computed:!1}}}};export{i as A};
