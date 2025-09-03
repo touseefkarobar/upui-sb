@@ -2,6 +2,18 @@
 
 This file contains a summary of all significant updates and improvements to the project.
 
+## [0.0.61] - 2025-09-03
+
+### Refactor
+
+- updated featureRequestPage to use translation function in info alert
+
+## [0.0.60] - 2025-09-02
+
+### Refactor
+
+- added infoAlert with `showInfoAlert` prop in featureRequestPage and Update `Title` and `Description`
+
 ## [0.0.59] - 2025-08-22
 
 ### Chore
