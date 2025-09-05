@@ -1,0 +1,7 @@
+import{j as e}from"./iframe-YVy6O9s8.js";import{O as n}from"./OpenIcon-DTN_qBo7.js";const p="_link_m5aiq_1",u="_disabled_m5aiq_43",f="_icon_m5aiq_79",l={link:p,disabled:u,icon:f},x=({href:r,icon:s,size:a="large",disabled:i=!1,className:o="",leftIcon:t,rightIcon:m,children:d,...c})=>e.jsxs("a",{href:i?void 0:r,className:`
+        ${l.link}
+        ${l[a]}
+        ${i?l.disabled:""}
+        ${o}
+        ${a==="large"?"pac-upui-h3 pac-upui-font-semibold":"pac-upui-h6 pac-upui-font-semibold"}
+      `,"aria-disabled":i,tabIndex:i?-1:0,...c,children:[t&&e.jsx("span",{className:l.icon,children:s?e.jsx(s,{size:a==="large"?"medium":"small"}):e.jsx(n,{size:a==="large"?"medium":"small"})}),e.jsx("span",{children:d}),m&&e.jsx("span",{className:l.icon,children:s?e.jsx(s,{size:a==="large"?"medium":"small"}):e.jsx(n,{size:a==="large"?"medium":"small"})})]});x.__docgenInfo={description:"",methods:[],displayName:"Link",props:{icon:{required:!1,tsType:{name:"ReactElementType",raw:"React.ElementType"},description:""},size:{required:!1,tsType:{name:"union",raw:"'small' | 'large'",elements:[{name:"literal",value:"'small'"},{name:"literal",value:"'large'"}]},description:"",defaultValue:{value:'"large"',computed:!1}},disabled:{required:!1,tsType:{name:"boolean"},description:"",defaultValue:{value:"false",computed:!1}},leftIcon:{required:!1,tsType:{name:"boolean"},description:""},rightIcon:{required:!1,tsType:{name:"boolean"},description:""},className:{defaultValue:{value:'""',computed:!1},required:!1}},composes:["AnchorHTMLAttributes"]};export{x as L};
