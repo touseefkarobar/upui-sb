@@ -2,6 +2,13 @@
 
 This file contains a summary of all significant updates and improvements to the project.
 
+## [0.0.63] - 2025-09-11
+
+### Refactor
+
+- Added License Alert on `OverviewPage` component with control props(`showLicenseAlert`,`onLicenseAlertDismiss`)
+- updated `TextLink` Component Styling.
+
 ## [0.0.62] - 2025-09-05
 
 ### Refactor
