@@ -2,6 +2,12 @@
 
 This file contains a summary of all significant updates and improvements to the project.
 
+## [0.0.64] - 2025-09-20
+
+### Refactor
+
+- Updated `Toggle` Component Styling to Override Default Wordpress Styling. 
+
 ## [0.0.63] - 2025-09-11
 
 ### Refactor
