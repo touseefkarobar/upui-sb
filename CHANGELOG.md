@@ -2,11 +2,17 @@
 
 This file contains a summary of all significant updates and improvements to the project.
 
+## [0.0.65] - 2025-09-23
+
+### Added
+
+-Added New `BackButton` component to Library
+
 ## [0.0.64] - 2025-09-20
 
 ### Refactor
 
-- Updated `Toggle` Component Styling to Override Default Wordpress Styling. 
+- Updated `Toggle` Component Styling to Override Default Wordpress Styling.
 
 ## [0.0.63] - 2025-09-11
 
