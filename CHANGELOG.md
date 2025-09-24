@@ -2,6 +2,12 @@
 
 This file contains a summary of all significant updates and improvements to the project.
 
+## [0.0.66] - 2025-09-24
+
+### Refactor
+
+- add skeleton loading state to `Image` component
+
 ## [0.0.65] - 2025-09-23
 
 ### Added
