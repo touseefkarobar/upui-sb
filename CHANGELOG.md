@@ -2,6 +2,24 @@
 
 This file contains a summary of all significant updates and improvements to the project.
 
+## [0.0.70] - 2025-09-28
+
+### Refactor
+
+- Updated `ColorPicker` Component to Wrap the Presets to prevent overflow. Updated GlobalPresets related props based on new Divi Structure.
+
+## [0.0.69] - 2025-09-28
+
+### Refactor
+
+- Added `aspectRatio` prop to `Image` component and updated its styling
+
+## [0.0.68] - 2025-09-28
+
+### Refactor
+
+- Added `BlogPost` and `IntroCard` Components Images with default height and widths
+
 ## [0.0.67] - 2025-09-25
 
 ### Refactor
