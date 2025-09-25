@@ -2,6 +2,12 @@
 
 This file contains a summary of all significant updates and improvements to the project.
 
+## [0.0.67] - 2025-09-25
+
+### Refactor
+
+- `AppLayout` Component to have default `height` as `auto` and minheight as `calc(100vh - 92px)`
+
 ## [0.0.66] - 2025-09-24
 
 ### Refactor
