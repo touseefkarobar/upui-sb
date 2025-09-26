@@ -2,6 +2,12 @@
 
 This file contains a summary of all significant updates and improvements to the project.
 
+## [0.0.71] - 2025-09-29
+
+### Added
+
+- Added `DndTemplateField` component and corresponding story.
+
 ## [0.0.70] - 2025-09-28
 
 ### Refactor
