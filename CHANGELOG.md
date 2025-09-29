@@ -2,6 +2,12 @@
 
 This file contains a summary of all significant updates and improvements to the project.
 
+## [0.0.74] - 2025-09-29
+
+### Refactor
+
+- add `BackButton` component to `Sidebar` with customizable options
+
 ## [0.0.73] - 2025-09-29
 
 ### Refactor

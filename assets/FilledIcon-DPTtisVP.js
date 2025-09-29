@@ -1,0 +1,11 @@
+import{j as l}from"./iframe-mHfZNN49.js";const c="_isActive_1fyi7_4",t={"hovered-enabled":"_hovered-enabled_1fyi7_1",isActive:c},p=({icon:r,fillColor:n="transparent",hoverColor:a="",size:e="base",className:i="",isActive:s=!1,onClick:u,style:o={},rounded:d=!0,...m})=>l.jsx("div",{onClick:u,className:`${i} ${a?t["hovered-enabled"]:""} ${s?t.isActive:""}`.trim(),style:{backgroundColor:n,borderRadius:d?"50%":"0",display:"inline-flex",alignItems:"center",justifyContent:"center",width:e,height:e,"--pac-upui-icon-hover-color":a,...o},children:l.jsx(r,{size:e,color:m.color})});p.__docgenInfo={description:"",methods:[],displayName:"FilledIcon",props:{size:{required:!1,tsType:{name:"union",raw:`| "xsmall"
+| "small"
+| "base"
+| "medium"
+| "large"
+| "xlarge"
+| "2xlarge"
+| "3xlarge"
+| "4xlarge"
+| "5xlarge"
+| "6xlarge"`,elements:[{name:"literal",value:'"xsmall"'},{name:"literal",value:'"small"'},{name:"literal",value:'"base"'},{name:"literal",value:'"medium"'},{name:"literal",value:'"large"'},{name:"literal",value:'"xlarge"'},{name:"literal",value:'"2xlarge"'},{name:"literal",value:'"3xlarge"'},{name:"literal",value:'"4xlarge"'},{name:"literal",value:'"5xlarge"'},{name:"literal",value:'"6xlarge"'}]},description:"",defaultValue:{value:'"base"',computed:!1}},color:{required:!1,tsType:{name:"string"},description:""},icon:{required:!0,tsType:{name:"ReactElementType",raw:"React.ElementType"},description:""},fillColor:{required:!1,tsType:{name:"string"},description:"",defaultValue:{value:'"transparent"',computed:!1}},hoverColor:{required:!1,tsType:{name:"string"},description:"",defaultValue:{value:'""',computed:!1}},isActive:{required:!1,tsType:{name:"Boolean"},description:"",defaultValue:{value:"false",computed:!1}},onClick:{required:!1,tsType:{name:"signature",type:"function",raw:"(e: React.MouseEvent<HTMLDivElement>) => void",signature:{arguments:[{type:{name:"ReactMouseEvent",raw:"React.MouseEvent<HTMLDivElement>",elements:[{name:"HTMLDivElement"}]},name:"e"}],return:{name:"void"}}},description:""},className:{required:!1,tsType:{name:"string"},description:"",defaultValue:{value:'""',computed:!1}},style:{required:!1,tsType:{name:"ReactCSSProperties",raw:"React.CSSProperties"},description:"",defaultValue:{value:"{}",computed:!1}},rounded:{required:!1,tsType:{name:"Boolean"},description:"",defaultValue:{value:"true",computed:!1}}}};export{p as F};
