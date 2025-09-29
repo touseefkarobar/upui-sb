@@ -2,6 +2,12 @@
 
 This file contains a summary of all significant updates and improvements to the project.
 
+## [0.0.73] - 2025-09-29
+
+### Refactor
+
+- enhance `Image` component with customizable border radius and update avatar options
+
 ## [0.0.72] - 2025-09-29
 
 ### Refactor
