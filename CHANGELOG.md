@@ -2,6 +2,14 @@
 
 This file contains a summary of all significant updates and improvements to the project.
 
+## [0.0.75] - 2025-10-01
+
+### Refactor
+
+- add `hoverEnable` prop to `Avatar` component to add hover styling
+- added story for DND Template Field using Sorting List
+- Passed `aspectRatio`to image styling itself 
+
 ## [0.0.74] - 2025-09-29
 
 ### Refactor
