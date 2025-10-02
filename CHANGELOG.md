@@ -1,6 +1,13 @@
 # Changelog
 
-This file contains a summary of all significant updates and improvements to the project.
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [0.0.76](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.75...v0.0.76) (2025-10-02)
+
+
+### Features
+
+* add selectedTemplateId prop to TemplateAssignmentField and update stories ([6500ce5](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/6500ce5d95273cea7b72c6d655ab5bdf4b47b458))
 
 ## [0.0.75] - 2025-10-01
 
