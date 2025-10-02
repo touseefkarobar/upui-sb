@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.77](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.76...v0.0.77) (2025-10-02)
+
+
+### Features
+
+* add placeholder prop to TemplateAssignmentField and update story example ([ca41cd0](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/ca41cd0c185a43150c473de6eb2cccaf0c02aa66))
+
 ### [0.0.76](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.75...v0.0.76) (2025-10-02)
 
 
