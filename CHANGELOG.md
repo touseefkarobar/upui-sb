@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.78](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.77...v0.0.78) (2025-10-04)
+
+
+### Features
+
+* update plugin identifiers for "divi dynamic helper" and enhance DndTemplateField with copy functionality and isDefault prop ([dee1e27](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/dee1e27a63769c122275709cdae03215e25a66b8))
+
+
+### Bug Fixes
+
+* correct npm run command in release script ([f740c7b](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/f740c7bdfdd5fdf72f9befdaf60275b61c7b1e22))
+
 ### [0.0.77](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.76...v0.0.77) (2025-10-02)
 
 
