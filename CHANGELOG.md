@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.81](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.80...v0.0.81) (2025-10-06)
+
+
+### Features
+
+* add useModal hook and integrate it into MainHeader story for modal confirmation ([3ccb56b](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/3ccb56b7cdc1f919d457f4834b836b95af1efcfc))
+
 ### [0.0.80](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.79...v0.0.80) (2025-10-06)
 
 
