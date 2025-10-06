@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.79](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.78...v0.0.79) (2025-10-06)
+
+
+### Features
+
+* enhance description for "divi-dynamic-content-helper" plugin to clarify dynamic content capabilities ([9405b29](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/9405b2988685a2d02d651ff769143dbac24d44c4))
+
 ### [0.0.78](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.77...v0.0.78) (2025-10-04)
 
 
