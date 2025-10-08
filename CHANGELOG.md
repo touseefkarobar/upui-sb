@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.82](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.81...v0.0.82) (2025-10-08)
+
+
+### Features
+
+* add src prop to ImagePicker and update story to demonstrate initial image ([303b9df](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/303b9dfaceed2901b91b1eb7e1f8f06a794c5bfd))
+
 ### [0.0.81](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.80...v0.0.81) (2025-10-06)
 
 
