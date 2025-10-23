@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.83](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.82...v0.0.83) (2025-10-23)
+
+
+### Features
+
+* add TagInput component with styling and stories for demonstration ([72e15dd](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/72e15ddec5979352ff9d85746f9ca0278043626e))
+
 ### [0.0.82](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.81...v0.0.82) (2025-10-08)
 
 
