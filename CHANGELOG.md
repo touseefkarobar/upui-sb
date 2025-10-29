@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.85](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.85-test.2...v0.0.85) (2025-10-29)
+
 ### [0.0.84](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.83...v0.0.84) (2025-10-25)
 
 
