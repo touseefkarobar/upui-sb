@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.87](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.86...v0.0.87) (2025-11-12)
+
+
+### Features
+
+* update slug mapping for operations and change status of Divi Dynamic Content Helper to active ([f099699](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/f09969971bef0e60a86a7fdcb3bf4c5dd0edd5d8))
+
 ### [0.0.86](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.85...v0.0.86) (2025-10-29)
 
 
