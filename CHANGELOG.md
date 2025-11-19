@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.88](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.87...v0.0.88) (2025-11-19)
+
+
+### Features
+
+* add custom notice support to OverviewPage and new icon components, ([502f791](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/502f791fb3f063124237e6f41afb8897b53862eb))
+
 ### [0.0.87](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.86...v0.0.87) (2025-11-12)
 
 
