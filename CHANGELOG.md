@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.89](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.88...v0.0.89) (2025-11-20)
+
+
+### Features
+
+* update slug mapping for experience helper in PluginSelector and PacAboutPage ([20045c0](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/20045c0cbc62e7f2b151821e8a28993a00bb176c))
+
 ### [0.0.88](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.87...v0.0.88) (2025-11-19)
 
 
