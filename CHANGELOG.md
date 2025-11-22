@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.90](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.89...v0.0.90) (2025-11-22)
+
+
+### Features
+
+* add support for additional languages in CodeEditor and update dependencies ([48d3525](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/48d35256ea210701e66fb37f5a24fbe8544be905))
+* implement RepeatableSection component with dynamic item management and styling ([df22c4f](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/df22c4fcbbd6d4f4b3bd22f343cec5f1df724bf9))
+
 ### [0.0.89](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.88...v0.0.89) (2025-11-20)
 
 
