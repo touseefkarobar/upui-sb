@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.94](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.93...v0.0.94) (2025-11-24)
+
+
+### Features
+
+* add Divi Builder Experience Helper to PacAboutPage and stories ([c0f6014](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/c0f6014275af3dddd13344ae6cd4087d9cdf3979))
+
 ### [0.0.93](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.92...v0.0.93) (2025-11-24)
 
 
