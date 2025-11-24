@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.91](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.90...v0.0.91) (2025-11-24)
+
+
+### Features
+
+* add ElementActionsIcon component and update icon exports ([8e3c3ee](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/8e3c3eedb0c201c1dd5d4a8ed94e52f1f9da437a))
+* add ElementSettingsIcon component and update icon exports ([a341ada](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/a341adacf2a39822ec2e5cd526ec9dc07d35374f))
+* add LeftSidebarIcon component and update icon exports ([a2cb36b](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/a2cb36beee0e78267779930f37a4004c231ed88d))
+* add TopBarIcon component and update icon exports ([b803dee](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/b803dee72ff883ec641fe4d381d077a810f66f54))
+
 ### [0.0.90](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.89...v0.0.90) (2025-11-22)
 
 
