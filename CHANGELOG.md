@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.97](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.96...v0.0.97) (2025-11-25)
+
+
+### Bug Fixes
+
+* enforce outline and box-shadow removal on textarea focus ([c7ec66d](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/c7ec66d041845e38591b07ce3c9cae26ef7eca78))
+
 ### [0.0.96](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.95...v0.0.96) (2025-11-25)
 
 ### [0.0.95](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.94...v0.0.95) (2025-11-25)
