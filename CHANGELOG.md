@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.95](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.94...v0.0.95) (2025-11-25)
+
+
+### Features
+
+* add ColumnStackingIcon and update icon stories ([86c1be7](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/86c1be79f7b87b89736d84b50ece6ef79d9db20e))
+
 ### [0.0.94](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.93...v0.0.94) (2025-11-24)
 
 
