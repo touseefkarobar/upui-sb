@@ -1,0 +1,1 @@
+import{j as a}from"./iframe-jBRwHyHY.js";const s="_textarea_1bk77_1",r={textarea:s},o=({className:t,...e})=>a.jsx("textarea",{rows:e.rows||4,cols:e.cols||100,className:`${r.textarea} ${t||""} pac-upui-h4 pac-upui-font-regular`,...e});o.__docgenInfo={description:"",methods:[],displayName:"TextArea"};export{o as T};

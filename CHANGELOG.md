@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.98](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.97...v0.0.98) (2025-11-26)
+
+
+### Features
+
+* add onClose prop to ModalRoot and implement close callback in stories ([0bc4cad](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/0bc4cad401ad4a0bdf2c67636ad2379023b9ad63))
+* enhance Badge component and integrate into DndTemplateField with dynamic status display ([3b9da78](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/3b9da7877bd75ead65ff003bac783e91a3d39b88))
+
 ### [0.0.97](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.96...v0.0.97) (2025-11-25)
 
 
