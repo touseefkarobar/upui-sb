@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.99](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.98...v0.0.99) (2025-11-26)
+
+
+### Features
+
+* add WordPress Media Library integration to ImagePicker component with new options menu ([b436a78](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/b436a78328f5dc34d31199c87aee2af9e093dbb2))
+
 ### [0.0.98](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.97...v0.0.98) (2025-11-26)
 
 
