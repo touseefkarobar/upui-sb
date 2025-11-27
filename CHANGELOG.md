@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.104](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.103...v0.0.104) (2025-11-27)
+
+
+### Bug Fixes
+
+* improve formatting and update path data in ElementActionsIcon component ([283319e](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/283319eb1af60575f69c1072abd8f71e42ed1700))
+
 ### [0.0.103](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.102...v0.0.103) (2025-11-27)
 
 
