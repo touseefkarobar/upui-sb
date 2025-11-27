@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.102](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.101...v0.0.102) (2025-11-27)
+
+
+### Bug Fixes
+
+* add exclamation mark to 'Coming Soon' text in Badge component ([ca0fc20](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/ca0fc20fcb90c3f277015b9a811a8a3038f0d09e))
+
 ### [0.0.101](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.100...v0.0.101) (2025-11-27)
 
 
