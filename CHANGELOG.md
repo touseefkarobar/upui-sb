@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.103](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.102...v0.0.103) (2025-11-27)
+
+
+### Bug Fixes
+
+* remove unnecessary align-self property from Badge component CSS ([ecb7039](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/ecb7039557b732a7eb7ab81f168fe78179d19299))
+
 ### [0.0.102](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.101...v0.0.102) (2025-11-27)
 
 
