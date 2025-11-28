@@ -1,7 +1,0 @@
-import{j as e}from"./iframe-B4VatSrF.js";import{O as n}from"./OpenIcon-C3-uv9WU.js";const p="_link_dsysy_1",u="_disabled_dsysy_22",f="_icon_dsysy_40",s={link:p,disabled:u,icon:f},y=({href:r,icon:l,size:a="large",disabled:i=!1,className:o="",leftIcon:t,rightIcon:d,children:m,...c})=>e.jsxs("a",{href:i?void 0:r,className:`
-        ${s.link}
-        ${s[a]}
-        ${i?s.disabled:""}
-        ${o}
-        ${a==="large"?"pac-upui-h3 pac-upui-font-semibold":"pac-upui-h6 pac-upui-font-semibold"}
-      `,"aria-disabled":i,tabIndex:i?-1:0,...c,children:[t&&e.jsx("span",{className:s.icon,children:l?e.jsx(l,{size:a==="large"?"medium":"small"}):e.jsx(n,{size:a==="large"?"medium":"small"})}),e.jsx("span",{children:m}),d&&e.jsx("span",{className:s.icon,children:l?e.jsx(l,{size:a==="large"?"medium":"small"}):e.jsx(n,{size:a==="large"?"medium":"small"})})]});y.__docgenInfo={description:"",methods:[],displayName:"Link",props:{icon:{required:!1,tsType:{name:"ReactElementType",raw:"React.ElementType"},description:""},size:{required:!1,tsType:{name:"union",raw:"'small' | 'large'",elements:[{name:"literal",value:"'small'"},{name:"literal",value:"'large'"}]},description:"",defaultValue:{value:'"large"',computed:!1}},disabled:{required:!1,tsType:{name:"boolean"},description:"",defaultValue:{value:"false",computed:!1}},leftIcon:{required:!1,tsType:{name:"boolean"},description:""},rightIcon:{required:!1,tsType:{name:"boolean"},description:""},className:{defaultValue:{value:'""',computed:!1},required:!1}},composes:["AnchorHTMLAttributes"]};export{y as L};
