@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.105](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.104...v0.0.105) (2025-11-28)
+
+
+### Features
+
+* add confirmation feature to CustomColorPicker and adjust styles ([3336e7f](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/3336e7f35dd8d725d18c64675d796d5743e89394))
+
 ### [0.0.104](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.103...v0.0.104) (2025-11-27)
 
 
