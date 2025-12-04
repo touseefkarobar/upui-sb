@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.108](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.107...v0.0.108) (2025-12-04)
+
+
+### Features
+
+* add RoundMenuIcon component and update exports ([3a024ba](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/3a024ba576eb9796c9c954d13d096942f3f9449c))
+
 ### [0.0.107](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.106...v0.0.107) (2025-11-28)
 
 ### [0.0.106](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.105...v0.0.106) (2025-11-28)
