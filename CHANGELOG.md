@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.109](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.108...v0.0.109) (2025-12-10)
+
+
+### Features
+
+* add AvatarGroup component and integrate with DndTemplateField and upgraded it ([dc6cb89](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/dc6cb89c8f1f350d1923885f5ceed7d5325c9ffe))
+* add ListCard component with styles and storybook integration ([60bf6db](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/60bf6db78f27fabc7c21b72fda5038d5ff3f9b60))
+
 ### [0.0.108](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.107...v0.0.108) (2025-12-04)
 
 
