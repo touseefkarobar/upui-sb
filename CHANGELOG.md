@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.111](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.110...v0.0.111) (2025-12-10)
+
+
+### Features
+
+* add assignedToRole to initialTemplateItems and enforce white-space nowrap in role styles ([79164e5](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/79164e55b09cd6c97d1b872033a9b266181d97be))
+
 ### [0.0.110](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.109...v0.0.110) (2025-12-10)
 
 
