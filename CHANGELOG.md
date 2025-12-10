@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.110](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.109...v0.0.110) (2025-12-10)
+
+
+### Features
+
+* enhance AvatarGroup to display single avatar with username and update DndField stories with user list ([417821f](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/417821f4896911fe80f56312bd452b6bea68da90))
+
 ### [0.0.109](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.108...v0.0.109) (2025-12-10)
 
 
