@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.112](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.111...v0.0.112) (2025-12-15)
+
+
+### Features
+
+* add BreakpointsIcon component and update exports in index and stories ([8b7fad9](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/8b7fad99093ff1c72f1f5b0850c31d19f4853ec1))
+
+
+### Bug Fixes
+
+* update default color for BreakpointsIcon component ([f7a125e](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/f7a125ee050184006f6f8fd4b4496023df7325f6))
+
 ### [0.0.111](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.110...v0.0.111) (2025-12-10)
 
 
