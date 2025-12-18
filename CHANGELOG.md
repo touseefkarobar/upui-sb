@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.113](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.112...v0.0.113) (2025-12-18)
+
+
+### Features
+
+* enhance DndTemplateField to support multiple roles and update related stories ([723ab3c](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/723ab3c3e1ae593c2b4e406ba76e309c7b057ae6))
+
 ### [0.0.112](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.111...v0.0.112) (2025-12-15)
 
 
