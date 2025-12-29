@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.115](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.114...v0.0.115) (2025-12-29)
+
+
+### Features
+
+* update license key masking logic in LicensePage component ([44a8ac6](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/44a8ac669f121394a2cac66b3a9c999da1ba4cc6))
+
 ### [0.0.114](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.113...v0.0.114) (2025-12-29)
 
 
