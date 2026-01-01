@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.116](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.115...v0.0.116) (2026-01-01)
+
+
+### Features
+
+* enhance DndReplaceField and CustomColorPicker components with new props and functionality ([f34372b](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/f34372b3d5e4c58b1930b644d3609b73d772e71b))
+
 ### [0.0.115](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.114...v0.0.115) (2025-12-29)
 
 
