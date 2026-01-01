@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.117](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.116...v0.0.117) (2026-01-01)
+
+
+### Features
+
+* add enableConfirmation prop to DndColorField component ([62aede9](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/62aede95c35fe7e2acad7a415257dfef5af18c0a))
+
 ### [0.0.116](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.115...v0.0.116) (2026-01-01)
 
 
