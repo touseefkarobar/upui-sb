@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.118](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.117...v0.0.118) (2026-01-05)
+
+
+### Features
+
+* enhance useOutsideToggle to support callback on outside click ([2373399](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/2373399484daaadd52b8a950c78cafe976b1bbb4))
+
 ### [0.0.117](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.116...v0.0.117) (2026-01-01)
 
 
