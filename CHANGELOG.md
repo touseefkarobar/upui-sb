@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.120](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.119...v0.0.120) (2026-01-08)
+
+
+### Features
+
+* enhance DndReplaceField with validation and styling improvements ([e580394](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/e5803941c6d4d8cf4f1d422cef8971c726ba8851))
+
 ### [0.0.119](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.118...v0.0.119) (2026-01-08)
 
 
