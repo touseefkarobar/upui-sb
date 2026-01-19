@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.121](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.120...v0.0.121) (2026-01-19)
+
+
+### Features
+
+* add new icons (Accordion, BarCounters, DiviBuilderWindow, PhoneWide, TabletWide, UltraWide, WideScreen) and update stories ([4e75347](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/4e7534736c3bbbfcadf878c427c0de8958c7de9a))
+
 ### [0.0.120](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.119...v0.0.120) (2026-01-08)
 
 
