@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.123](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.122...v0.0.123) (2026-01-21)
+
+
+### Features
+
+* add DndModuleItem component with styles and story integration ([b948a14](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/b948a14dc3e662984b3f8fb3ec2f565a86d43c83))
+
 ### [0.0.122](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.121...v0.0.122) (2026-01-20)
 
 
