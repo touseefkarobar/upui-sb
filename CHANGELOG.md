@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.124](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.123...v0.0.124) (2026-01-25)
+
+
+### Features
+
+* updated description of DBXH ([26a71cd](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/26a71cd7ebc99e2329f75a15c32dd92fce49d756))
+
 ### [0.0.123](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.122...v0.0.123) (2026-01-21)
 
 
