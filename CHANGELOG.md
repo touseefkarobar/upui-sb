@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.125](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.124...v0.0.125) (2026-01-26)
+
+
+### Features
+
+* Added "showHexColor" prop and ui to DNDColorField ([e1f753f](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/e1f753f23d129e7ed5f37263ca82ecfc2ec966b1))
+* Added All Divi Modules' Icon ([c2089dc](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/c2089dc15d72575134ffd190e962ea791992f6ec))
+
 ### [0.0.124](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.123...v0.0.124) (2026-01-25)
 
 
