@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.126](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.125...v0.0.126) (2026-01-27)
+
+
+### Features
+
+* Enhance DndColorField with delete confirmation modal and update CustomColorPicker to use HEX format as default ([88fdfaf](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/88fdfafed7315b19499f6157cbe72333b2385a5d))
+
 ### [0.0.125](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.124...v0.0.125) (2026-01-26)
 
 
