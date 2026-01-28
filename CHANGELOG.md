@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.128](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.127...v0.0.128) (2026-01-28)
+
+
+### Features
+
+* Added DiviGalleryIcon ([3209a99](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/3209a99a78106f90344b407457358629a6ec4724))
+
 ### [0.0.127](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.126...v0.0.127) (2026-01-27)
 
 
