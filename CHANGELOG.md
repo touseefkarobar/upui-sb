@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.129](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.128...v0.0.129) (2026-02-03)
+
+
+### Features
+
+* enhance TagInput component to support multiple tags generation based on comma separated list input ([3c60eb4](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/3c60eb4839b296c8543bde641c29e29bb23fb63c))
+
 ### [0.0.128](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.127...v0.0.128) (2026-01-28)
 
 
