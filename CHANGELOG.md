@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.130](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.129...v0.0.130) (2026-02-05)
+
+
+### Features
+
+* add headerConfig prop to PluginCard and PacAboutPage for axios request headers ([d786b4f](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/d786b4fb48675927513ab920520699006d66762c))
+
 ### [0.0.129](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.128...v0.0.129) (2026-02-03)
 
 
