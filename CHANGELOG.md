@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.132](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.131...v0.0.132) (2026-02-24)
+
+
+### Features
+
+* add allowedList prop to TagInput for tag pattern restrictions ([29e0f06](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/29e0f063e484a3949395cda9f048ca1816c8ae50))
+* Added FluidTextIcon component from library ([e69b271](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/e69b27182118406e62eccd719a491c312c970dd9))
+
 ### [0.0.131](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.130...v0.0.131) (2026-02-05)
 
 
