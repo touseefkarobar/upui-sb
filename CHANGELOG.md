@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.133](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.132...v0.0.133) (2026-02-26)
+
+
+### Bug Fixes
+
+* circular deps issue in build ([a3c00fc](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/a3c00fc7940a107bff3da2d8fe0354d2e8087da2))
+
 ### [0.0.132](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.131...v0.0.132) (2026-02-24)
 
 
