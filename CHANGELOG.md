@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.134](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.133...v0.0.134) (2026-03-13)
+
+
+### Features
+
+* **DndColorField:** add variable support with badge display in color field ([f17532d](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/f17532d5f4d65d1c93177edc0cfb710072571528))
+
 ### [0.0.133](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.132...v0.0.133) (2026-02-26)
 
 
