@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.135](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.134...v0.0.135) (2026-03-14)
+
+
+### Bug Fixes
+
+* **DndColorField:** add comments for isVariable and variableTitle props ([c67349c](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/c67349c6095f5104c64f2aa3e25016305dfedf85))
+
 ### [0.0.134](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.133...v0.0.134) (2026-03-13)
 
 
