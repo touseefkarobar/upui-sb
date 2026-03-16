@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.136](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.135...v0.0.136) (2026-03-16)
+
+
+### Bug Fixes
+
+* **DndColorField:** improve ui ([9428fb4](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/9428fb410b2da552c4bbca8a6916b6a914ffd8af))
+
 ### [0.0.135](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.134...v0.0.135) (2026-03-14)
 
 
