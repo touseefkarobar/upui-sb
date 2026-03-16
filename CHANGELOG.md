@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.137](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.136...v0.0.137) (2026-03-16)
+
+
+### Bug Fixes
+
+* **Input:** correct border color and improve styling consistency ([324806d](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/324806d1e482389fc4d32a4dbae3a363f6f55f87))
+
 ### [0.0.136](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.135...v0.0.136) (2026-03-16)
 
 
