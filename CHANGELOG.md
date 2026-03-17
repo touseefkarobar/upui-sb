@@ -2,6 +2,166 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.1] (Pre-release) (2026-03-17) — Architecture Overhaul
+
+> A comprehensive library-wide audit and improvement. All changes are backward compatible — no existing APIs were removed or broken.
+
+### Features
+
+* **ErrorBoundary:** add new ErrorBoundary component to catch and display React errors gracefully
+* **AppLayout:** wrap with ErrorBoundary to protect admin UI from crashes
+* **MainLayout:** wrap with ErrorBoundary to protect admin UI from crashes
+* **forwardRef:** add `React.forwardRef` to 25 components — Input, TextArea, Checkbox, Toggle, Select, TagInput, FileInput, ComboInput, TextStyle, CodeEditor, ImagePicker, Button, Link, Tab, Heading, Text, Label, TextLink, Stack, Grid, Container, ContentLayout, Avatar, Badge, Image, Loader
+* **React.memo:** wrap 10 pure presentational components — Heading, Text, Label, TextLink, Stack, Grid, Container, ContentLayout, Badge, Loader
+* **Select:** fix state synchronization when `defaultValue`/`defaultLabel`/`displayValue` props change after mount
+* **displayName:** set `displayName` on all 25 forwardRef components for React DevTools
+
+### New Components (24)
+
+#### Atomic Components
+
+* **Divider:** horizontal/vertical separator with `role="separator"`, aria-orientation, label support, custom color/thickness
+* **Skeleton:** content placeholder with 3 variants (text/circular/rectangular), 3 animations (pulse/wave/none), `aria-hidden`
+* **IconButton:** icon-only button with required `aria-label`, 5 variants + ghost, 3 sizes, loading state
+* **Progress:** progress bar with `role="progressbar"`, `aria-valuenow/min/max`, 4 color variants, indeterminate mode
+* **Chip:** display tag with filled/outlined variants, 5 colors, optional icon, removable with close button
+* **Breadcrumb:** `<nav aria-label="Breadcrumb">` + `<ol>`, `aria-current="page"` on last item, custom separator
+* **Card:** generic container with bordered/rounded/padded/shadow/hoverable, interactive with `role="button"` + keyboard
+* **EmptyState:** centered layout with icon/title/description/action slot
+* **ScreenReaderOnly:** standard visually-hidden pattern, polymorphic `as` prop
+
+#### Form Components
+
+* **RadioGroup:** compound component with `role="radiogroup"`, arrow key navigation, controlled/uncontrolled
+* **NumberInput:** numeric input with stepper buttons, min/max/step bounds, ArrowUp/ArrowDown keyboard
+* **SearchInput:** search icon, clearable X button, debounced `onSearch` callback, loading spinner
+
+#### Compound Components
+
+* **TabGroup:** `role="tablist"` container with TabGroup.List, TabGroup.Tab, TabGroup.Panel, arrow key navigation
+* **Accordion:** collapsible sections with `aria-expanded`, `aria-controls`, single/multiple mode, chevron animation
+* **Dialog:** confirmation/alert dialog with `role="dialog"`, focus trap, Escape key, overlay click, body scroll lock
+* **Table:** data table with sortable headers (`aria-sort`), striped/bordered/hoverable, 3 sizes, sticky header, selected rows
+
+#### Overlay & Menu Components
+
+* **Popover:** positioned floating content with `aria-expanded`, `aria-haspopup`, side/align positioning, Escape close
+* **DropdownMenu:** `role="menu"` with full keyboard nav (arrows, Home/End, Enter/Space, Escape), auto-focus first item
+* **Toast:** react-toastify wrapper with ToastProvider and `toast.success()`/`.error()`/`.info()`/`.warning()` methods
+
+#### Infrastructure Components
+
+* **Portal:** `ReactDOM.createPortal` wrapper with configurable container
+* **FocusTrap:** Tab/Shift+Tab containment with `active` prop and `restoreFocus`
+* **ThemeProvider:** React Context providing `{ theme }` with `data-theme` attribute, `useTheme` hook
+* **NavigationMenu:** `<nav>` + `role="menubar"` with roving tabindex, arrow key navigation, groups, separators
+
+### Accessibility
+
+* **Modal:** add `role="dialog"`, `aria-modal="true"`, Escape key handler, focus save/restore
+* **Modal.Trigger:** add `role="button"`, `tabIndex={0}`, Enter/Space keyboard activation
+* **Select:** add `role="combobox"`, `role="listbox"`, `role="option"`, `aria-expanded`, keyboard navigation (Arrow keys, Enter, Escape)
+* **FormField.Field:** restore `id` and `aria-describedby` injection via `React.cloneElement` (was commented out)
+* **MenuItem:** add `role="menuitem"`, `tabIndex={0}`, Enter/Space keyboard activation
+* **Sidebar:** add `role="navigation"`, `aria-label="Main navigation"` to `<aside>` element
+* **Tooltip:** add `useId()` for unique ID, `aria-describedby` linking trigger to tooltip content
+* **Tab:** add `role="tab"` to button element
+
+### Performance
+
+* **Modal:** memoize context value with `useMemo` and wrap `open`/`close` with `useCallback`
+* **Select:** memoize context value with `useMemo`
+* **FormField:** memoize context value with `useMemo`
+* **Alert:** move `iconMap` to module-level constant to avoid re-creation per render
+* **CustomColorPicker:** replace `setTimeout(fn, 0)` with `useLayoutEffect` for canvas sizing
+* **CustomColorPicker:** replace `window.alert()` with `console.warn` for unsupported eyedropper
+
+### Bug Fixes
+
+* **PluginSelector:** fix `useEffect` with empty dependency array ignoring `normalizedPlugins` and `onPluginSelect`
+* **LicensePage:** refactor `reLinkLicenseKey` from mixed `await...then()` to consistent `async/await`
+* **PacAboutPage:** replace anonymous `function qX() {}` fallback icon with named `FallbackPluginIcon` constant
+
+### Refactors
+
+* **renderIcon:** extract duplicated helper from Button, MenuItem, OverviewPage to shared `src/utils/renderIcon.tsx`
+* **colorUtils:** extract white-color border detection logic (6 inline copies) to shared `src/utils/colorUtils.ts`
+* **slugMapping:** extract duplicated `slugMappingForOperations` + `getOperationSlug` to shared `src/utils/slugMapping.ts`
+* **useControllableState:** add new shared hook for standardized controlled/uncontrolled state management
+* **types:** create shared `src/types/common.ts` with `PacPluginNewsItem` and `PluginSlug` types
+* **CustomColorPicker:** remove 5 blocks of commented-out code and debug `console.log` statements
+* **ColorPicker:** remove 20+ lines of commented-out `useEffect` hooks
+
+### Business Logic Extraction
+
+* **OverviewPage:** add `newsData`, `onFetchNews`, `onReviewClick` callback props with backward-compatible fallbacks
+* **PluginCard:** add `onManageClick` callback prop with backward-compatible fallback to `window.open`
+* **PacAboutPage:** add `onProfileClick`, `newsData`, `onFetchNews` callback props with backward-compatible fallbacks
+* **LicensePage:** add `onActivate`, `onDeactivate`, `onRelink` callback props with backward-compatible axios fallbacks
+
+### Deprecations
+
+* **ChangelogPage:** add `textDomain` prop alongside deprecated `texDomain` with `console.warn`
+* **PacAboutPage:** add `textDomain` prop alongside deprecated `texDomain` with `console.warn`
+* **DiviCustomFieldHelperIcon:** add corrected icon name as re-export from typo version (`DiviCustomFieldHeplerIcon`)
+
+### Tooling
+
+* add ESLint configuration with TypeScript, React, React Hooks, and JSX-A11y plugins (`eslint.config.js`)
+* add Prettier configuration (`.prettierrc`, `.prettierignore`)
+* add Vitest + React Testing Library + jsdom test infrastructure (`vitest.config.ts`, `src/test-setup.ts`)
+* add VS Code settings for format-on-save and ESLint fix-on-save (`.vscode/settings.json`, `.vscode/extensions.json`)
+* add `test`, `test:watch`, `test:coverage`, `lint`, `lint:fix`, `format`, `typecheck`, `validate` scripts to package.json
+* add PR validation workflow (`.github/workflows/validate.yml`) — type check, lint, test, build, build-storybook
+
+### Storybook
+
+* add 20 new story files for all new components with autodocs, argTypes, and multiple variants
+* **Primitives:** RadioGroup, NumberInput, SearchInput, Skeleton, Progress, EmptyState, Chip, Toast, Dialog, ErrorBoundary, IconButton, Breadcrumb, Card
+* **Layout:** Divider
+* **Composites:** TabGroup, Accordion, Table, DropdownMenu, Popover, NavigationMenu
+
+### Tests
+
+* add Button tests — 16 test cases covering variants, sizes, loading, disabled, href, icons
+* add Input tests — 8 test cases covering rendering, typing, icons, captions, disabled
+* add Toggle tests — 6 test cases covering check/uncheck, disabled, labels
+* add Checkbox tests — 6 test cases covering check/uncheck, disabled, variants
+* add Alert tests — 9 test cases covering types, dismissable, action buttons, custom icons
+* add Stack tests — 7 test cases covering direction, alignment, gaps, dividers
+* add Grid tests — 6 test cases covering columns, responsive, gaps
+* add Container tests — 8 test cases covering bordered, rounded, padded, maxWidth
+* add ErrorBoundary tests — 5 test cases covering error catching, fallback, recovery
+* add Heading tests — 11 test cases covering levels h1-h6, weights, colors
+* add Modal compound component tests — 10 test cases
+* add Select compound component tests — 11 test cases
+* add FormField compound component tests — 5 test cases
+* add TagInput tests — 7 test cases
+* add Tooltip tests — 4 test cases
+* add Badge tests — 4 test cases
+* add Avatar tests — 5 test cases
+* add Tab tests — 6 test cases
+* add MenuItem tests — 8 test cases
+* add Link tests — 4 test cases
+* add tests for all 24 new components — 148 test cases total (Divider: 10, Skeleton: 7, IconButton: 14, Progress: 15, Chip: 7, Breadcrumb: 8, Card: 7, EmptyState: 8, ScreenReaderOnly: 6, TabGroup: 7, Accordion: 7, Dialog: 9, RadioGroup: 7, NumberInput: 8, SearchInput: 6, Popover: 4, DropdownMenu: 8, Table: 10)
+
+
+---
+
+### Summary
+
+| Metric | Value |
+|---|---|
+| New components added | 24 |
+| Test files added | 38 |
+| Total test cases | 294 (all passing) |
+| Story files added | 20 |
+| Total story files | 74 |
+| Components with forwardRef | 25 |
+| Components with React.memo | 10 |
+| Shared utilities added | 4 |
+| Breaking changes | 0 |
+
 ### [0.0.137](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v0.0.136...v0.0.137) (2026-03-16)
 
 
