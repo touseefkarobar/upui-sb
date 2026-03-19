@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.3] (2026-03-19)
+
+### New Components
+
+* **ComplexityMeter:** add new data-display component — SVG-based semicircular gauge with animated needle, configurable value (0-100), custom label, IntersectionObserver-driven animation on scroll into view, elastic overshoot easing, fully accessible with `role="status"` and `aria-label`
+
+### Storybook
+
+* **ComplexityMeter:** add 11 stories covering all complexity levels, sizes, and a side-by-side "All Levels" view
+
 ## [1.0.0-rc.1] (Pre-release) (2026-03-17) — Architecture Overhaul
 
 > A comprehensive library-wide audit and improvement. All changes are backward compatible — no existing APIs were removed or broken.
