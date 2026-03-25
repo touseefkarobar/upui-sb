@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.5](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.4...v1.0.0-rc.5) (2026-03-25)
+
+
+### Bug Fixes
+
+* update primary checkbox border color to use var(--pac-upui-medium) ([acc706b](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/acc706b668a1604d1039ec451992b066d5b35030))
+* update release:rc script to use standard-version for prereleases ([56afd55](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/56afd55573b3d6e408877bd8e67352ca963ec238))
+
 ## [1.0.0-rc.3] (2026-03-19)
 
 ### New Components
@@ -11,6 +19,11 @@ All notable changes to this project will be documented in this file. See [standa
 ### Storybook
 
 * **ComplexityMeter:** add 11 stories covering all complexity levels, sizes, and a side-by-side "All Levels" view
+
+## [1.0.0-rc.2] (2026-03-18)
+
+### Features
+* **DndVideoLinkField:** Added export for DndVideoLinkField component
 
 ## [1.0.0-rc.1] (Pre-release) (2026-03-17) — Architecture Overhaul
 
