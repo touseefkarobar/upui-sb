@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.6](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.5...v1.0.0-rc.6) (2026-03-31)
+
+
+### Features
+
+* add support for multiple action buttons in Alert component ([df07548](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/df07548fac99f009ba09424e50f31bf34b069dba))
+
+
+### Bug Fixes
+
+* Hue Selection Bug at initial render ([4884d46](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/4884d463988c3aa9e221fc83e104d3e973f90e7b))
+
 ## [1.0.0-rc.5](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.4...v1.0.0-rc.5) (2026-03-25)
 
 
