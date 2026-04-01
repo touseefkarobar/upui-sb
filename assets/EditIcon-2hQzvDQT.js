@@ -1,0 +1,11 @@
+import{j as a}from"./iframe-DyV8nXKI.js";import{s as l}from"./type-Bc9hys3F.js";const i=({size:r="base",color:n="var(--pac-upui-icon)"})=>{const e=l[r]||l.base;return a.jsx("svg",{width:e,height:e,viewBox:"0 0 27 26",fill:"none",xmlns:"http://www.w3.org/2000/svg",children:a.jsx("path",{d:"M19.8273 7.69903L19.2795 7.15121C19.0074 6.87975 18.6844 6.6645 18.3291 6.51792C17.9738 6.37133 17.5931 6.29624 17.2087 6.29688C16.4296 6.29517 15.6817 6.60241 15.1287 7.15121L13.4666 8.82257L7.43088 14.8583C7.30023 14.9888 7.22673 15.1658 7.22656 15.3505V19.0647C7.22656 19.2494 7.29993 19.4266 7.43054 19.5572C7.56114 19.6879 7.73829 19.7612 7.92299 19.7612H11.6373C11.8215 19.759 11.9978 19.6859 12.1294 19.5569L18.1466 13.5305L19.7902 11.8869C20.0645 11.6165 20.2823 11.294 20.4305 10.9385C20.5788 10.5829 20.6547 10.2014 20.6537 9.8162C20.6647 9.42596 20.5973 9.03742 20.4553 8.67374C20.3133 8.31006 20.0998 7.97863 19.8273 7.69903ZM11.3494 18.3683H8.61942V15.6384L13.9587 10.2991L16.6887 13.029L11.3494 18.3683ZM18.843 10.8655L17.673 12.0448L14.943 9.31474L16.113 8.13544C16.4078 7.85658 16.7982 7.70119 17.2041 7.70119C17.6099 7.70119 18.0003 7.85658 18.2952 8.13544L18.843 8.67408C19.1331 8.96514 19.2966 9.35882 19.298 9.76973C19.2913 10.1714 19.128 10.5545 18.843 10.8376V10.8655Z",fill:n})})};i.__docgenInfo={description:"",methods:[],displayName:"EditIcon",props:{size:{required:!1,tsType:{name:"union",raw:`| "xsmall"
+| "small"
+| "base"
+| "medium"
+| "large"
+| "xlarge"
+| "2xlarge"
+| "3xlarge"
+| "4xlarge"
+| "5xlarge"
+| "6xlarge"`,elements:[{name:"literal",value:'"xsmall"'},{name:"literal",value:'"small"'},{name:"literal",value:'"base"'},{name:"literal",value:'"medium"'},{name:"literal",value:'"large"'},{name:"literal",value:'"xlarge"'},{name:"literal",value:'"2xlarge"'},{name:"literal",value:'"3xlarge"'},{name:"literal",value:'"4xlarge"'},{name:"literal",value:'"5xlarge"'},{name:"literal",value:'"6xlarge"'}]},description:"",defaultValue:{value:'"base"',computed:!1}},color:{required:!1,tsType:{name:"string"},description:"",defaultValue:{value:'"var(--pac-upui-icon)"',computed:!1}}}};export{i as E};
