@@ -1,0 +1,1 @@
+const i={xsmall:16,small:18,base:22,medium:24,large:26,xlarge:28,"2xlarge":32,"3xlarge":36,"4xlarge":40,"5xlarge":42,"6xlarge":48},a=i.base,n=new Proxy(i,{get(s,e){if(typeof e!="string")return s[String(e)]??a;if(e in s)return s[e]??a;const r=Number(e);return Number.isFinite(r)&&r>0?r:a}});export{n as s};

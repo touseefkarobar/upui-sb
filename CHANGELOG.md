@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.8](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.7...v1.0.0-rc.8) (2026-04-03)
+
+
+### Features
+
+* Add Divi Migration Helper plugin support in PluginSelector and PacAboutPage ([762fa07](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/762fa074e1dca01ac9d74fe67bc8449ce223196d))
+* add TextEditor component with styling and stories ([0df91a4](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/0df91a4b568dde909974416e757764b0da082e8f))
+* **icons:** refactor icon components to use unified size prop and update size mapping ([9eac0c6](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/9eac0c684c72ad4e9e1a53ea731037cf1f173de8))
+
+
+### Bug Fixes
+
+* **tagInput:** Allow single space in tags ([229265f](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/229265fdf1cc96bcb6bb78c6bfa47eaabbf0730c))
+
 ## [1.0.0-rc.7](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.6...v1.0.0-rc.7) (2026-04-01)
 
 
