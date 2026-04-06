@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.10](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.9...v1.0.0-rc.10) (2026-04-06)
+
+
+### Bug Fixes
+
+* **PacAboutPage:** refine description for Divi migration helper plugin ([50dad3c](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/50dad3cb0121691e4a64db4c2e58d565def9cc47))
+
 ## [1.0.0-rc.9](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.8...v1.0.0-rc.9) (2026-04-03)
 
 
