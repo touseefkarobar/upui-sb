@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.11](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.10...v1.0.0-rc.11) (2026-04-06)
+
+
+### Features
+
+* **OverviewPage:** add support for custom components and their order ([17ac871](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/17ac87105a4f399ecc04f709417e5aaca7ed3648))
+
 ## [1.0.0-rc.10](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.9...v1.0.0-rc.10) (2026-04-06)
 
 
