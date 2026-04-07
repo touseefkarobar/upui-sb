@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.12](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.11...v1.0.0-rc.12) (2026-04-07)
+
+
+### Features
+
+* add new icons and update progress bar styles ([e1df110](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/e1df110d077bd68cc7841880f2b8d3c4387c434b))
+
 ## [1.0.0-rc.11](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.10...v1.0.0-rc.11) (2026-04-06)
 
 
