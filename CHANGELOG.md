@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.13](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.12...v1.0.0-rc.13) (2026-04-09)
+
+
+### Features
+
+* update icon sizes to 5xlarge and enhance VSCode settings ([d837ac5](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/d837ac5e0753febec0cbd3461e2392d397dc2b89))
+
 ## [1.0.0-rc.12](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.11...v1.0.0-rc.12) (2026-04-07)
 
 
