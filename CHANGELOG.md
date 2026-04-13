@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.14](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.13...v1.0.0-rc.14) (2026-04-13)
+
+
+### Features
+
+* enhance Select component with popup direction and max height options ([78c7ad0](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/78c7ad0dbc328e267bb5b7fe4d5b66d5fb9f27f5))
+
 ## [1.0.0-rc.13](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.12...v1.0.0-rc.13) (2026-04-09)
 
 
