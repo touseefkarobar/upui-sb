@@ -1,1 +1,0 @@
-import{R as s,j as o}from"./iframe-YWs4K4M3.js";const x="_textarea_1bk77_1",c={textarea:x},a=s.forwardRef(({className:t,...e},r)=>o.jsx("textarea",{ref:r,rows:e.rows||4,cols:e.cols||100,className:`${c.textarea} ${t||""} pac-upui-h4 pac-upui-font-regular`,...e}));a.displayName="TextArea";a.__docgenInfo={description:"",methods:[],displayName:"TextArea"};export{a as T};
