@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.16](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.15...v1.0.0-rc.16) (2026-04-16)
+
+
+### Features
+
+* add TemporaryLoginAccess component and related stories ([73e5d18](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/73e5d183350538d1b45bfe9debbaeb42cd667fe2))
+* enhance IntroCard layout options and add links, update SidebarProps for optional callbacks, improve Image component styling, and refactor PacAboutPage structure ([17ada5f](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/17ada5fc01eeaedfe1cd94357b40e58f1d91974f))
+* updated plugins description in PAC About Page ([41a1188](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/41a1188496a26226059fc20cf0a5ab10becfedc7))
+
 ## [1.0.0-rc.15](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.14...v1.0.0-rc.15) (2026-04-15)
 
 
