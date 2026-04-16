@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.17](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.16...v1.0.0-rc.17) (2026-04-16)
+
+
+### Features
+
+* update TemporaryLoginAccess component props and improve Alert rendering logic ([578dd81](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/578dd8139f837aca83e27ca75b96d7f18ccb3dbd))
+
 ## [1.0.0-rc.16](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.15...v1.0.0-rc.16) (2026-04-16)
 
 
