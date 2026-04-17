@@ -1,0 +1,11 @@
+import{j as a}from"./iframe-BwsSGmBc.js";import{s as l}from"./type-CgT0EiC8.js";const i=({size:r="base",color:n="var(--pac-upui-icon)"})=>{const e=l[r]||l.base;return a.jsx("svg",{width:e,height:e,viewBox:"0 0 28 28",fill:"none",xmlns:"http://www.w3.org/2000/svg",children:a.jsx("circle",{cx:"14",cy:"14",r:"8",fill:n})})};i.__docgenInfo={description:"",methods:[],displayName:"DotColorIcon",props:{size:{required:!1,tsType:{name:"union",raw:"PresetIconSize | number",elements:[{name:"union",raw:`| "xsmall"
+| "small"
+| "base"
+| "medium"
+| "large"
+| "xlarge"
+| "2xlarge"
+| "3xlarge"
+| "4xlarge"
+| "5xlarge"
+| "6xlarge"`,elements:[{name:"literal",value:'"xsmall"'},{name:"literal",value:'"small"'},{name:"literal",value:'"base"'},{name:"literal",value:'"medium"'},{name:"literal",value:'"large"'},{name:"literal",value:'"xlarge"'},{name:"literal",value:'"2xlarge"'},{name:"literal",value:'"3xlarge"'},{name:"literal",value:'"4xlarge"'},{name:"literal",value:'"5xlarge"'},{name:"literal",value:'"6xlarge"'}]},{name:"number"}]},description:"",defaultValue:{value:"'base'",computed:!1}},color:{required:!1,tsType:{name:"string"},description:"",defaultValue:{value:"'var(--pac-upui-icon)'",computed:!1}}}};export{i as D};

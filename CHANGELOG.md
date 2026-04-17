@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.18](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.17...v1.0.0-rc.18) (2026-04-17)
+
+
+### Features
+
+* update onLinkChange prop to accept token and add extractToken function ([cae5158](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/cae515800d4720e692ed1062f519bc524cf89850))
+
 ## [1.0.0-rc.17](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.16...v1.0.0-rc.17) (2026-04-16)
 
 
