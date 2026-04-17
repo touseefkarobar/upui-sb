@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.19](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.18...v1.0.0-rc.19) (2026-04-17)
+
 ## [1.0.0-rc.18](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.17...v1.0.0-rc.18) (2026-04-17)
 
 
