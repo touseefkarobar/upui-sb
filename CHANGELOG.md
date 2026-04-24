@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.0.0-rc.20](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.19...v1.0.0-rc.20) (2026-04-24)
+
+
+### Features
+
+* enhance TextEditor to support PDF uploads and improve list handling ([56bed3d](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/56bed3d98ef535d754056daf57906120fbfe4c9d))
+
 ## [1.0.0-rc.19](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.18...v1.0.0-rc.19) (2026-04-17)
 
 ## [1.0.0-rc.18](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.17...v1.0.0-rc.18) (2026-04-17)
