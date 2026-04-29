@@ -1,0 +1,11 @@
+import{j as e}from"./iframe-a_Xm9z3c.js";import{s as n}from"./type-CgT0EiC8.js";const i=({size:r="base",color:a="var(--pac-upui-icon)"})=>{const l=n[r]||n.base;return e.jsxs("svg",{width:l,height:l,viewBox:"0 0 28 28",fill:"none",xmlns:"http://www.w3.org/2000/svg",children:[e.jsx("path",{d:"M14 14.5161C13.5871 14.5161 13.2258 14.1548 13.2258 13.7419V11.1613C13.2258 10.7484 13.5871 10.3871 14 10.3871C14.4129 10.3871 14.7742 10.7484 14.7742 11.1613V13.7419C14.7742 14.1548 14.4129 14.5161 14 14.5161Z",fill:a}),e.jsx("path",{d:"M14 17.3548C14.5701 17.3548 15.0323 16.8927 15.0323 16.3226C15.0323 15.7525 14.5701 15.2903 14 15.2903C13.4299 15.2903 12.9677 15.7525 12.9677 16.3226C12.9677 16.8927 13.4299 17.3548 14 17.3548Z",fill:a}),e.jsx("path",{d:"M17.3032 22H10.6968L6 17.3032V10.6968L10.6968 6H17.3032L22 10.6968V17.3032L17.3032 22ZM11.3161 20.4516H16.6839L20.4516 16.6839V11.3161L16.6839 7.54839H11.3161L7.54839 11.3161V16.6839L11.3161 20.4516Z",fill:a})]})};i.__docgenInfo={description:"",methods:[],displayName:"StopIcon",props:{size:{required:!1,tsType:{name:"union",raw:"PresetIconSize | number",elements:[{name:"union",raw:`| "xsmall"
+| "small"
+| "base"
+| "medium"
+| "large"
+| "xlarge"
+| "2xlarge"
+| "3xlarge"
+| "4xlarge"
+| "5xlarge"
+| "6xlarge"`,elements:[{name:"literal",value:'"xsmall"'},{name:"literal",value:'"small"'},{name:"literal",value:'"base"'},{name:"literal",value:'"medium"'},{name:"literal",value:'"large"'},{name:"literal",value:'"xlarge"'},{name:"literal",value:'"2xlarge"'},{name:"literal",value:'"3xlarge"'},{name:"literal",value:'"4xlarge"'},{name:"literal",value:'"5xlarge"'},{name:"literal",value:'"6xlarge"'}]},{name:"number"}]},description:"",defaultValue:{value:'"base"',computed:!1}},color:{required:!1,tsType:{name:"string"},description:"",defaultValue:{value:'"var(--pac-upui-icon)"',computed:!1}}}};export{i as S};
