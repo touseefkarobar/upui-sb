@@ -1,6 +1,0 @@
-import{T as p}from"./TemporaryLoginAccess-DkM9AH20.js";import"./iframe-BWJm69Oe.js";import"./CopyIcon-B_SKnZFW.js";import"./type-CgT0EiC8.js";import"./OpenIcon-Bt33gQpl.js";import"./ResetIcon-CHQtJZsu.js";import"./index-B-RC-t6j.js";import"./FilledIcon-CKwN3khR.js";import"./BackIcon-Y9HX2wXj.js";import"./index-C_n4tH4n.js";import"./Heading-DUV48e07.js";import"./index-DfnwFzSF.js";import"./InfoIcon-D8QGxtv9.js";import"./Text-CoF2Dpoy.js";import"./CheckmarkIcon-DJolMdT-.js";import"./WelcomeIcon-DhWmGWei.js";import"./index-DmMEhs63.js";import"./CloseIcon-C34oVPsi.js";import"./index-Dd4oOWZc.js";import"./StopIcon-CKqlP1MG.js";import"./index-Ct1ZXpsH.js";import"./Label-iEliODb3.js";import"./index-CvXRYQ4c.js";import"./index-DW5EOpOH.js";const E={title:"PAC Universal Plugin UI/Pages/Temporary Login Access",component:p,parameters:{pageLayout:"page"}},r={args:{enabled:!0}};var o,t,e;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
-  args: {
-    enabled: true
-    // accessLink: "abscksdfksldfklsdf",
-  }
-}`,...(e=(t=r.parameters)==null?void 0:t.docs)==null?void 0:e.source}}};const I=["Default"];export{r as Default,I as __namedExportsOrder,E as default};
