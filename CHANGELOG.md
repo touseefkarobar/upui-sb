@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0...v1.0.1) (2026-05-03)
+
+
+### Features
+
+* enhance color handling in ColorPicker and CustomColorPicker, add isLightColor utility ([bcb1224](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/bcb1224fdede3939fc5b978c0860db52df33e935))
+
 ## [1.0.0](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0-rc.20...v1.0.0) (2026-04-29)
 
 
