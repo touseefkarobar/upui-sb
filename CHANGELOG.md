@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.2](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.1...v1.0.2) (2026-05-06)
+
+
+### Features
+
+* add tests for TextEditor component and enhance Modal functionality with close confirmation ([d31cdc5](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/d31cdc50412de26ebdc354411095f8a3a61c15b5))
+* enhance Modal component with improved close confirmation and text formatting ([59d0723](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/59d072348e8600f3e4114f607efe47a5ddff77fc))
+* implement temporary login access functionality with state management and API integration ([3da06a0](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/3da06a0d82afec54856c1622dc29dad38ac3c830))
+
 ### [1.0.1](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.0...v1.0.1) (2026-05-03)
 
 
