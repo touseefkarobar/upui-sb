@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.3...v1.0.4) (2026-06-02)
+
+
+### Bug Fixes
+
+* update AvatarGroup size to base and clean up DndTemplateField styles ([82167bd](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/82167bd71e6f66c525d9f58210b3ad52cdc07f50))
+
 ### [1.0.3](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.2...v1.0.3) (2026-05-12)
 
 ### [1.0.2](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.1...v1.0.2) (2026-05-06)
