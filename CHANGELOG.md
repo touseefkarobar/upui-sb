@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.5](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.4...v1.0.5) (2026-06-04)
+
+
+### Features
+
+* add info alert functionality to LicensePage for DiviMarket users ([a200a7f](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/a200a7ffcd8069ba7e0d2604fa2592a02df48f7a))
+
 ### [1.0.4](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.3...v1.0.4) (2026-06-02)
 
 
