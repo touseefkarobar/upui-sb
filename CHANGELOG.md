@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.6](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.5...v1.0.6) (2026-06-15)
+
+
+### Bug Fixes
+
+* adjust TextEditor height handling and remove maxHeight prop usage ([e0c0989](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/e0c0989e7967884f5681798c5e7b7d55dbac9153))
+
 ### [1.0.5](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.4...v1.0.5) (2026-06-04)
 
 
