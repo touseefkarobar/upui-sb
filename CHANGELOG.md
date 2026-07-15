@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.7](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.6...v1.0.7) (2026-07-15)
+
+
+### Features
+
+* add clone functionality to DndVideoLinkField component ([a696619](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/a6966196d12e31fab0b94a8bad21e3e287c1cac0))
+* add media library integration to TextEditor component ([5da5f4e](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/5da5f4eb2069838e159e33f4cbce94fde4de8a12))
+
 ### [1.0.6](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.5...v1.0.6) (2026-06-15)
 
 
