@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.8](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.7...v1.0.8) (2026-07-21)
+
+
+### Features
+
+* enhance MainHeader with updates icon and version modal functionality ([1dff70b](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/1dff70b122c2a255d847a24e98ab9c0ed3700bbf))
+
 ### [1.0.7](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.6...v1.0.7) (2026-07-15)
 
 
