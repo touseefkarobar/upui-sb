@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.10](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.9...v1.0.10) (2026-08-04)
+
+
+### Features
+
+* update TinyMCE dialog styles and disable URL-field suggestions ([a5941a5](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/a5941a56365d90c68481c6ca5e8eae7eb9978091))
+
 ### [1.0.9](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.8...v1.0.9) (2026-07-23)
 
 ### [1.0.8](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.7...v1.0.8) (2026-07-21)
