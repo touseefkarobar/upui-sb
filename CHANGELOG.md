@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.11](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.10...v1.0.11) (2026-08-12)
+
+
+### Features
+
+* add PaperClipIcon component and update input styles ([67e7757](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/67e7757763f0729700980aac9604481e66758996))
+
 ### [1.0.10](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.9...v1.0.10) (2026-08-04)
 
 
