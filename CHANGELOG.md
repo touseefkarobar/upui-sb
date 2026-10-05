@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.12](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.11...v1.0.12) (2026-10-05)
+
+
+### Features
+
+* update buildAccessLinkFromToken to accept originPath parameter ([427cc95](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/commit/427cc95fb3618ab9bb152117c2c3c75501f6d27e))
+
 ### [1.0.11](https://github.com/Karobar-Solutions-LLC/PAC-Universal-Plugin-UI/compare/v1.0.10...v1.0.11) (2026-08-12)
 
 
